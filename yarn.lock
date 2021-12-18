@@ -1145,10 +1145,10 @@
   "resolved" "https://registry.npmjs.org/@prisma/engines-version/-/engines-version-3.6.0-24.dc520b92b1ebb2d28dc3161f9f82e875bd35d727.tgz"
   "version" "3.6.0-24.dc520b92b1ebb2d28dc3161f9f82e875bd35d727"
 
-"@prisma/engines@3.6.0-24.dc520b92b1ebb2d28dc3161f9f82e875bd35d727":
-  "integrity" "sha512-dRClHS7DsTVchDKzeG72OaEyeDskCv91pnZ72Fftn0mp4BkUvX2LvWup65hCNzwwQm5IDd6A88APldKDnMiEMA=="
-  "resolved" "https://registry.npmjs.org/@prisma/engines/-/engines-3.6.0-24.dc520b92b1ebb2d28dc3161f9f82e875bd35d727.tgz"
-  "version" "3.6.0-24.dc520b92b1ebb2d28dc3161f9f82e875bd35d727"
+"@prisma/engines@2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20":
+  "integrity" "sha512-WPnA/IUrxDihrRhdP6+8KAVSwsc0zsh8ioPYsLJjOhzVhwpRbuFH2tJDRIAbc+qFh+BbTIZbeyBYt8fpNXaYQQ=="
+  "resolved" "https://registry.npmjs.org/@prisma/engines/-/engines-2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20.tgz"
+  "version" "2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20"
 
 "@sqltools/formatter@^1.2.2":
   "integrity" "sha512-/5O7Fq6Vnv8L6ucmPjaWbVG1XkP4FO+w5glqfkIsq3Xw4oyNAdJddbnYodNDAfjVUvo/rrSCTom4kAND7T1o5Q=="
@@ -4311,12 +4311,12 @@
   "resolved" "https://registry.npmjs.org/pretty-format/-/pretty-format-3.8.0.tgz"
   "version" "3.8.0"
 
-"prisma@*", "prisma@^3.6.0":
-  "integrity" "sha512-6SqgHS/5Rq6HtHjsWsTxlj+ySamGyCLBUQfotc2lStOjPv52IQuDVpp58GieNqc9VnfuFyHUvTZw7aQB+G2fvQ=="
-  "resolved" "https://registry.npmjs.org/prisma/-/prisma-3.6.0.tgz"
-  "version" "3.6.0"
+"prisma@*", "prisma@^2.25.0":
+  "integrity" "sha512-48qYba2BIyUmXuosBZs0g3kYGrxKvo4VkSHYOuLlDdDirmKyvoY2hCYMUYHSx3f++8ovfgs+MX5KmNlP+iAZrQ=="
+  "resolved" "https://registry.npmjs.org/prisma/-/prisma-2.30.3.tgz"
+  "version" "2.30.3"
   dependencies:
-    "@prisma/engines" "3.6.0-24.dc520b92b1ebb2d28dc3161f9f82e875bd35d727"
+    "@prisma/engines" "2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20"
 
 "process-nextick-args@~2.0.0":
   "integrity" "sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag=="
