@@ -5,7 +5,6 @@ import Post, { PostProps } from "../components/Post"
 import prisma from '../lib/prisma';
 
 
-export {}
 export const getStaticProps: GetStaticProps = async () => {
   const feed = await prisma.post.findMany({
     where: { published: true },
