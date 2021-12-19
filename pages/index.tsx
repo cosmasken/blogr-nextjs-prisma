@@ -43,6 +43,7 @@ type Props = {
         .post:hover {
           box-shadow: 1px 1px 3px #aaa;
         }
+        
 
         .post + .post {
           margin-top: 2rem;
