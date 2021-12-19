@@ -21,7 +21,7 @@ type Props = {
   feed: PostProps[]
 }
 
-export const Blog: React.FC<Props> = (props) => {
+ const Blog: React.FC<Props> = (props) => {
   return (
     <Layout>
       <div className="page">
