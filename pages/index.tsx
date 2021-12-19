@@ -37,7 +37,7 @@ type Props = {
       <style jsx>{`
         .post {
           background: white;
-          transition: box-shadow 0.1s ease-in;
+          transition: box-shadow 0.2s ease-in;
         }
 
         .post:hover {
